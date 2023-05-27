@@ -31,7 +31,9 @@ AZORIUS: https://scryfall.com/search?q=-%22absorb+%22+and+%28%22Absorb%22+or+%22
 
 GRUUL: https://scryfall.com/search?q=%22Escape+to+the+Wilds%22+or+%22Gallia+of+the+Endless+Dance%22+or+%22Halana+and+Alena%2C+Partners%22+or+%22Huntmaster+of+the+Fells%22+or+%22Deathleaper%2C+Terror+Weapon%22+or++%22Klothys%2C+God+of+Destiny%22+or+%22Samut%2C+Vizier+of+Naktamun%22+or+%28legal%3Avintage+%22Minsc+%26+Boo%2C+Timeless+Heroes%22%29&unique=cards&as=grid&order=name
 
-SIMIC: https://scryfall.com/card/mat/33/jolrael-voice-of-zhalfir
+SIMIC: https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
+
+SELESNYA: https://scryfall.com/card/jou/145/ajani-mentor-of-heroes
 
 BOROS: https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival
 
