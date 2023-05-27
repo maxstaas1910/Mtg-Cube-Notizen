@@ -31,6 +31,12 @@ AZORIUS: https://scryfall.com/search?q=-%22absorb+%22+and+%28%22Absorb%22+or+%22
 
 GRUUL: https://scryfall.com/search?q=%22Escape+to+the+Wilds%22+or+%22Gallia+of+the+Endless+Dance%22+or+%22Halana+and+Alena%2C+Partners%22+or+%22Huntmaster+of+the+Fells%22+or+%22Deathleaper%2C+Terror+Weapon%22+or++%22Klothys%2C+God+of+Destiny%22+or+%22Samut%2C+Vizier+of+Naktamun%22+or+%28legal%3Avintage+%22Minsc+%26+Boo%2C+Timeless+Heroes%22%29&unique=cards&as=grid&order=name
 
+SIMIC: https://scryfall.com/card/mat/33/jolrael-voice-of-zhalfir
+
+BOROS: https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival
+
+IZZET: https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22+or+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RED: https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer
@@ -39,6 +45,7 @@ BLUE: https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+N
 
 WHITE: https://scryfall.com/search?q=%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
+BLAC: https://scryfall.com/card/mat/11/ayaras-oathsworn
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
