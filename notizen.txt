@@ -14,7 +14,7 @@ BANT: https://scryfall.com/search?q=%22Katilda+and+Lier%22+or+%22Falco+Spara%2C+
 JESKAI: https://scryfall.com/search?q=%22Zurgo+and+Ojutai%22+or+%22Narset%2C+Enlightened+Exile%22+or+%22Elsha+of+the+Infinite%22+or+%22Lightning+Angel%22+or+%22Mantis+Rider%22+or+%22Narset%2C+Enlightened+Master%22&unique=cards&as=grid&order=name
 	-> Mantis better than Lightning Angel; Zurgo ist ValueTown aber slow; Narset Exile maybe too similar to Kess; Elsha seems worse than Zurgo and Narset Master
 
-MARDU: https://scryfall.com/search?q=%22Queen+Marchesa%22+or+%22Zurgo+Helmsmasher%22+or+%22Crackling+Doom%22+or+%22Kroxa+and+Kunoros%22+or+%22Archangel+of+Wrath%22+or+%22Isshin%2C+Two+Heavens+as+One%22+&unique=cards&as=grid&order=name
+MARDU: https://scryfall.com/search?q=%22Mathas%2C+Fiend+Seeker%22+or+%22Mardu+Charm%22+or+%22Kaalia%2C+Zenith+Seeker%22+or+%22Queen+Marchesa%22+or+%22Zurgo+Helmsmasher%22+or+%22Crackling+Doom%22+or+%22Kroxa+and+Kunoros%22+or+%22Archangel+of+Wrath%22+or+%22Isshin%2C+Two+Heavens+as+One%22&unique=cards&as=grid&order=name
 
 JUND: (Xira) https://scryfall.com/search?q=%22Broodmate+Dragon%22+or+%22Darigaaz+Reincarnated%22+or+%22Ziatora%27s+Envoy%22+or+%22Xira%2C+the+Golden+Sting%22+or+%22Riveteers+Charm%22+or+%22Unleash+the+Inferno%22+or+%22Wasitora%2C+Nekoru+Queen%22+
 	-> Xira scheint ganz gut; nicht wirklich genug enchantments und artifacts für unleaseh; gibt es genug graveyard synergy für riveteers charm?; Ziatora und Wasitora ziemlich ähnlich
@@ -29,7 +29,7 @@ ABZAN: (Siege Rhino) https://scryfall.com/search?q=%22Thalia+and+The+Gitrog+Mons
 
 AZORIUS: https://scryfall.com/search?q=-%22absorb+%22+and+%28%22Absorb%22+or+%22Geist+of+Saint+Traft%22+or+%22Errant+and+Giada%22+or+%22Ephara%2C+God+of+the+Polis%22+or+%22Dragonlord+Ojutai%22+or+%22Detention+Sphere%22+or+%22Daxos+of+Meletis%22++or+%22Zethi%2C+Arcane+Blademaster%22+or+%22Yorion%2C+Sky+Nomad%22+or+%22Ojutai%27s+Command%22+or+%22Spell+Queller%22%29
 
-GRUUL: https://scryfall.com/search?q=%22Escape+to+the+Wilds%22+or+%22Gallia+of+the+Endless+Dance%22+or+%22Halana+and+Alena%2C+Partners%22+or+%22Huntmaster+of+the+Fells%22+or+%22Deathleaper%2C+Terror+Weapon%22+or++%22Klothys%2C+God+of+Destiny%22+or+%22Samut%2C+Vizier+of+Naktamun%22+or+%28legal%3Avintage+%22Minsc+%26+Boo%2C+Timeless+Heroes%22%29&unique=cards&as=grid&order=name
+GRUUL: https://scryfall.com/search?q=%22Minsc+%26+Boo%2C+Timeless+Heroes%22+or+%22Neyith+of+the+Dire+Hunt%22+or+%22Escape+to+the+Wilds%22+or+%22Gallia+of+the+Endless+Dance%22+or+%22Halana+and+Alena%2C+Partners%22+or+%22Huntmaster+of+the+Fells%22+or+%22Deathleaper%2C+Terror+Weapon%22+or++%22Klothys%2C+God+of+Destiny%22+or+%22Samut%2C+Vizier+of+Naktamun%22+or+%28legal%3Avintage+%22Minsc+%26+Boo%2C+Timeless+Heroes%22%29&unique=cards&as=grid&order=name
 
 SIMIC: https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
 
@@ -41,13 +41,13 @@ IZZET: https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+s
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-RED: https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer
+RED: https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22
 
 BLUE: https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
 WHITE: https://scryfall.com/search?q=%22Elspeth+Conquers+Death%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
-BLACK: https://scryfall.com/card/mat/11/ayaras-oathsworn
+BLACK: https://scryfall.com/search?q=%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22
 
 GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 
