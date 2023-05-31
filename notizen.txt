@@ -57,4 +57,10 @@ GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 !!!FRACTURED IDENTITY RAUS?????
 Merfolk
 mill prevention (self mill)
-urabrask raus
+
+----------------------------------------------------------------------------------
+
+
+REMOVE:
+
+RED: Urabrask
