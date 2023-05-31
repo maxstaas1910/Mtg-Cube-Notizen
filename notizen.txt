@@ -8,7 +8,7 @@ GRIXIS: (KESS) https://scryfall.com/search?q=%22Bladecoil+Serpent%22+or+%22Nicol
 
 SULTAI: (Tasigur), the Golden Fang
 
-BANT: https://scryfall.com/search?q=%22Katilda+and+Lier%22+or+%22Falco+Spara%2C+Pactweaver%22+or+%22Brokers+Charm%22+or+%22Amareth%2C+the+Lustrous%22+or+%22Chulane%2C+Teller+of+Tales%22+or+%22Treva%27s+Charm%22+or+%22Tamiyo%2C+Field+Researcher%22+or+%22Shanna%2C+Purifying+Blade%22+or+%22Kestia%2C+the+Cultivator%22+or+
+BANT: (FALCO) https://scryfall.com/search?q=%22Katilda+and+Lier%22+or+%22Falco+Spara%2C+Pactweaver%22+or+%22Brokers+Charm%22+or+%22Amareth%2C+the+Lustrous%22+or+%22Chulane%2C+Teller+of+Tales%22+or+%22Treva%27s+Charm%22+or+%22Tamiyo%2C+Field+Researcher%22+or+%22Shanna%2C+Purifying+Blade%22+or+%22Kestia%2C+the+Cultivator%22+or+
 	-> Beide kinda unexciting
 
 JESKAI: https://scryfall.com/search?q=%22Zurgo+and+Ojutai%22+or+%22Narset%2C+Enlightened+Exile%22+or+%22Elsha+of+the+Infinite%22+or+%22Lightning+Angel%22+or+%22Mantis+Rider%22+or+%22Narset%2C+Enlightened+Master%22&unique=cards&as=grid&order=name
