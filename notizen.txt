@@ -19,7 +19,7 @@ MARDU: https://scryfall.com/search?q=%22Mathas%2C+Fiend+Seeker%22+or+%22Mardu+Ch
 JUND: (Xira) https://scryfall.com/search?q=%22Broodmate+Dragon%22+or+%22Darigaaz+Reincarnated%22+or+%22Ziatora%27s+Envoy%22+or+%22Xira%2C+the+Golden+Sting%22+or+%22Riveteers+Charm%22+or+%22Unleash+the+Inferno%22+or+%22Wasitora%2C+Nekoru+Queen%22+
 	-> Xira scheint ganz gut; nicht wirklich genug enchantments und artifacts für unleaseh; gibt es genug graveyard synergy für riveteers charm?; Ziatora und Wasitora ziemlich ähnlich
 
-ESPER: https://scryfall.com/search?q=%22Toluz%2C+Clever+Conductor%22+or+%22Void+Rend%22+or+%22Esper+Charm%22+or+%22Nimble+Larcenist%22+or+%22Raffine%2C+Scheming+Seer%22+or+%22Sen+Triplets%22
+ESPER: (TOLUZ) https://scryfall.com/search?q=%22Toluz%2C+Clever+Conductor%22+or+%22Void+Rend%22+or+%22Esper+Charm%22+or+%22Nimble+Larcenist%22+or+%22Raffine%2C+Scheming+Seer%22+or+%22Sen+Triplets%22
 	-> Can't be countered scheint nicht so useful(rend); Larcenist und Raffine scheinen richtig gut; Sen triplets scheinen unfun
 
 ABZAN: (Siege Rhino) https://scryfall.com/search?q=%22Thalia+and+The+Gitrog+Monster%22+or+%22Siege+Rhino%22&unique=cards&as=grid&order=name
