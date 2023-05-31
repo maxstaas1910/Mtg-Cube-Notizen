@@ -37,13 +37,13 @@ SELESNYA: https://scryfall.com/search?q=%22Dromoka%27s+Command%22+or+%22Ajani%2C
 
 BOROS: https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival
 
-IZZET: https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22+or+
+IZZET (ZOANTHROPE): https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22+or+
 
 DIMIR: https://scryfall.com/search?q=%22Araumi+of+the+Dead+Tide%22+or+%22Dragonlord+Silumgar%22+or+%22Gyruda%2C+Doom+of+Depths%22+or+%22Drown+in+the+Loch%22+or+%22Atris%2C+Oracle+of+Half-Truths%22+or+%22Ashiok%2C+Nightmare+Weaver%22+or+%22Hostage+Taker%22+or+%21%22Probe%22+or+%22The+Scarab+God%22+or+%22Oskar%2C+Rubbish+Reclaimer%22+or+%22Thief+of+Sanity%22+or+%22Master+of+Death%22+or+%22Tainted+Indulgence%22+or+%22Soul+Diviner%22+or+%22Soul+Manipulation%22+or+%22Siphon+Insight%22+or+%22Rona%2C+Herald+of+Invasion%22&unique=cards&as=grid&order=name
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-RED: https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22
+RED (INVASION OF TARKIR): https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22
 
 BLUE: (GIFTS) https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
@@ -53,6 +53,7 @@ BLACK: https://scryfall.com/search?q=%22Ayara%27s+Oathsworn%22+or+%22Invoke+Desp
 
 GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 
+COLORLESS (JITTE -BANKBUSTER)
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
