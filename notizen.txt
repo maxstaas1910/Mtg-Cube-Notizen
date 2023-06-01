@@ -4,17 +4,17 @@ NAYA: (Justice) https://scryfall.com/search?q=%22Cabaretti+Confluence%22+or+%22F
 TEMUR: (Borbo) https://scryfall.com/search?q=%22Surrak+Dragonclaw%22+or+%22Borborygmos+and+Fblthp%22+or+%22Rashmi+and+Ragavan%22+or+%22Sarkhan+Unbroken%22+or+&unique=cards&as=grid&order=name
 	-> Surrak kinda useless; rashmi will ich maybe die normale spielen; sarkhan ist cool, wenn ich genug Drachen habe; Borbo seems good
 
-GRIXIS: (KESS) https://scryfall.com/search?q=%22Bladecoil+Serpent%22+or+%22Nicol+Bolas%2C+Dragon-God%22+or+%22Jeleva%2C+Nephalia%27s+Scourge%22+or+%22Kess%2C+Dissident+Mage%22+or+%22Corpse+Appraiser%22&unique=cards&as=grid&order=name
+GRIXIS: (BOLAS) https://scryfall.com/search?q=%22Bladecoil+Serpent%22+or+%22Nicol+Bolas%2C+Dragon-God%22+or+%22Jeleva%2C+Nephalia%27s+Scourge%22+or+%22Kess%2C+Dissident+Mage%22+or+%22Corpse+Appraiser%22&unique=cards&as=grid&order=name
 
 SULTAI: (Tasigur), the Golden Fang
 
 BANT: (FALCO) https://scryfall.com/search?q=%22Katilda+and+Lier%22+or+%22Falco+Spara%2C+Pactweaver%22+or+%22Brokers+Charm%22+or+%22Amareth%2C+the+Lustrous%22+or+%22Chulane%2C+Teller+of+Tales%22+or+%22Treva%27s+Charm%22+or+%22Tamiyo%2C+Field+Researcher%22+or+%22Shanna%2C+Purifying+Blade%22+or+%22Kestia%2C+the+Cultivator%22+or+
 	-> Beide kinda unexciting
 
-JESKAI: https://scryfall.com/search?q=%22Zurgo+and+Ojutai%22+or+%22Narset%2C+Enlightened+Exile%22+or+%22Elsha+of+the+Infinite%22+or+%22Lightning+Angel%22+or+%22Mantis+Rider%22+or+%22Narset%2C+Enlightened+Master%22&unique=cards&as=grid&order=name
+JESKAI: (NARSET $MANA CREATURE) https://scryfall.com/search?q=%22Zurgo+and+Ojutai%22+or+%22Narset%2C+Enlightened+Exile%22+or+%22Elsha+of+the+Infinite%22+or+%22Lightning+Angel%22+or+%22Mantis+Rider%22+or+%22Narset%2C+Enlightened+Master%22&unique=cards&as=grid&order=name
 	-> Mantis better than Lightning Angel; Zurgo ist ValueTown aber slow; Narset Exile maybe too similar to Kess; Elsha seems worse than Zurgo and Narset Master
 
-MARDU: https://scryfall.com/search?q=%22Mathas%2C+Fiend+Seeker%22+or+%22Mardu+Charm%22+or+%22Kaalia%2C+Zenith+Seeker%22+or+%22Queen+Marchesa%22+or+%22Zurgo+Helmsmasher%22+or+%22Crackling+Doom%22+or+%22Kroxa+and+Kunoros%22+or+%22Archangel+of+Wrath%22+or+%22Isshin%2C+Two+Heavens+as+One%22&unique=cards&as=grid&order=name
+MARDU: (ZURGO) https://scryfall.com/search?q=%22Mathas%2C+Fiend+Seeker%22+or+%22Mardu+Charm%22+or+%22Kaalia%2C+Zenith+Seeker%22+or+%22Queen+Marchesa%22+or+%22Zurgo+Helmsmasher%22+or+%22Crackling+Doom%22+or+%22Kroxa+and+Kunoros%22+or+%22Archangel+of+Wrath%22+or+%22Isshin%2C+Two+Heavens+as+One%22&unique=cards&as=grid&order=name
 
 JUND: (Xira) https://scryfall.com/search?q=%22Broodmate+Dragon%22+or+%22Darigaaz+Reincarnated%22+or+%22Ziatora%27s+Envoy%22+or+%22Xira%2C+the+Golden+Sting%22+or+%22Riveteers+Charm%22+or+%22Unleash+the+Inferno%22+or+%22Wasitora%2C+Nekoru+Queen%22+
 	-> Xira scheint ganz gut; nicht wirklich genug enchantments und artifacts für unleaseh; gibt es genug graveyard synergy für riveteers charm?; Ziatora und Wasitora ziemlich ähnlich
