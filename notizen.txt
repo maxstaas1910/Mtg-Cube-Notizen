@@ -33,6 +33,8 @@ GRUUL: https://scryfall.com/search?q=%22Samut%2C+Vizier+of+Naktamun%22+or+%22Min
 
 SIMIC: https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
 
+ORZHOV (-4mana sorcery): https://scryfall.com/search?q=%22Tidehollow+Sculler%22+or+%22lurrus%22
+
 SELESNYA: https://scryfall.com/search?q=%22Dromoka%27s+Command%22+or+%22Ajani%2C+Mentor+of+Heroes%22
 
 BOROS: https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival
@@ -45,11 +47,11 @@ RAKDOS: https://scryfall.com/search?q=%22Bituminous+Blast%22+or+%22Bloodtithe+Ha
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-RED (INVASION OF TARKIR, FABLE -SPYRO): https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22
+RED (INVASION OF TARKIR, FABLE -SPYRO): https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22+or+%22bomat+courier%22
 
 BLUE: (GIFTS) https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
-WHITE: https://scryfall.com/search?q=%22Elspeth+Conquers+Death%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
+WHITE (OSSIFICATION): https://scryfall.com/search?q=%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
 BLACK: https://scryfall.com/search?q=%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22
 
