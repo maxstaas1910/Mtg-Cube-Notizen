@@ -57,7 +57,7 @@ BLACK: https://scryfall.com/search?q=%22Ayara%27s+Oathsworn%22+or+%22Invoke+Desp
 
 GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 
-COLORLESS (JITTE -BANKBUSTER)
+COLORLESS (JITTE -BANKBUSTER): https://scryfall.com/search?q=%22Batterskull%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
