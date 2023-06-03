@@ -37,7 +37,7 @@ ORZHOV (-4mana sorcery): https://scryfall.com/search?q=%22Tidehollow+Sculler%22+
 
 SELESNYA: https://scryfall.com/search?q=%22Dromoka%27s+Command%22+or+%22Ajani%2C+Mentor+of+Heroes%22
 
-BOROS: https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival
+BOROS: https://scryfall.com/search?q=%22Bell+Borca%2C+Spectral+Sergeant%22+or+%22Blade+Historian%22+or+%22Sunforger%22+or+%22Velomachus+Lorehold%22+or+%22Djeru+and+Hazoret%22+or+%22Winota%2C+Joiner+of+Forces%22+or+%22Wildfire+Awakener%22+or++%22Campus+Renovation%22+or+%22Nahiri%2C+the+Harbinger%22+or+%22Outlaws%27+Merriment%22+or+%22Pia+Nalaar%2C+Consul+of+Revival%22+or+%22Quintorius%2C+Loremaster%22+or+
 
 IZZET (ZOANTHROPE): https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22+or+
 
@@ -51,7 +51,7 @@ RED (INVASION OF TARKIR, FABLE -SPYRO): https://scryfall.com/search?q=%22embercl
 
 BLUE: (GIFTS) https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
-WHITE (OSSIFICATION): https://scryfall.com/search?q=%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
+WHITE (OSSIFICATION, Porcaleain Leg. to artifacts): https://scryfall.com/search?q=%E2%80%9Ckarmic+guide%E2%80%9D+or+%22Serra+Paragon%22+or+%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
 BLACK (CUT DOWN): https://scryfall.com/search?q=%22bloodsoaked+champion%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22
 
