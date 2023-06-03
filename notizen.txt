@@ -47,13 +47,13 @@ RAKDOS: https://scryfall.com/search?q=%22Bituminous+Blast%22+or+%22Bloodtithe+Ha
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-RED (INVASION OF TARKIR, FABLE -SPYRO): https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22+or+%22bomat+courier%22
+RED (INVASION OF TARKIR, FABLE -SPYRO): https://scryfall.com/search?q=%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22+or+%22bomat+courier%22+or+%22bedlam+reveler%22+or+%22goblin+guide%22+or+%22monastery+swiftspear%22+or+%22young+pyromancer%22
 
 BLUE: (GIFTS) https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
-WHITE (OSSIFICATION): https://scryfall.com/search?q=%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
+WHITE (OSSIFICATION): https://scryfall.com/search?q=%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
-BLACK: https://scryfall.com/search?q=%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22
+BLACK (CUT DOWN): https://scryfall.com/search?q=%22bloodsoaked+champion%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22
 
 GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 
