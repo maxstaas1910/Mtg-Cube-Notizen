@@ -53,7 +53,7 @@ BLUE: (GIFTS) https://scryfall.com/search?q=%22Sea+Gate+Stormcaller%22+or+%22Tru
 
 WHITE (OSSIFICATION, Porcaleain Leg. to artifacts): https://scryfall.com/search?q=%E2%80%9Ckarmic+guide%E2%80%9D+or+%22skrelv%27s+hive%22+or++%22Serra+Paragon%22+or+%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
-BLACK (CUT DOWN): https://scryfall.com/search?q=%22bloodsoaked+champion%22+or+%22reaimate%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
+BLACK (CUT DOWN): https://scryfall.com/search?q=%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
 
 GREEN: https://scryfall.com/card/2x2/143/devoted-druid
 
