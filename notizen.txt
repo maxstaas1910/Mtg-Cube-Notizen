@@ -33,7 +33,7 @@ GRUUL (Huntmaster): https://scryfall.com/search?q=%22Samut%2C+Vizier+of+Naktamun
 
 SIMIC: https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
 
-ORZHOV (-4mana sorcery): https://scryfall.com/search?q=%22Tidehollow+Sculler%22+or+%22lurrus%22
+ORZHOV (-4mana sorcery): https://scryfall.com/search?q=%22Tidehollow+Sculler%22+or+%22lurrus%22+or+%22Edgar%2C+Charmed+Groom%22
 
 SELESNYA: (Night of Autumn) https://scryfall.com/search?q=%22Dromoka%27s+Command%22+or+%22Ajani%2C+Mentor+of+Heroes%22
 
@@ -53,7 +53,7 @@ BLUE: (GIFTS) https://scryfall.com/search?q=%22chart+a+course%22+or+%22Sea+Gate+
 
 WHITE (OSSIFICATION, SOLITUDE, EPHEMERATE, - Porcaleain ): https://scryfall.com/search?q=%22Glimmer+Lens%22+or+%22wedding+announce%22+or+%E2%80%9Ckarmic+guide%E2%80%9D+or+%22skrelv%27s+hive%22+or++%22Serra+Paragon%22+or+%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
-BLACK (CUT DOWN): https://scryfall.com/search?q=%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
+BLACK (CUT DOWN): https://scryfall.com/search?q=%21%22reanimate%22+or+%22Cemetery+Desecrator%22+or+%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
 
 GREEN: https://scryfall.com/search?q=%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
