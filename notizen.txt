@@ -57,7 +57,7 @@ BLACK (CUT DOWN): https://scryfall.com/search?q=%21%22reanimate%22+or+%22Cemeter
 
 GREEN: https://scryfall.com/search?q=%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
-COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL) : https://scryfall.com/search?q=%22Batterskull%22+or+%22gitaxian+probe%22+or+%22mishra%27s+bauble%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
+COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL) : https://scryfall.com/search?q=%22Sword+of+Feast+and+Famine%22+or+%22Batterskull%22+or+%22gitaxian+probe%22+or+%22mishra%27s+bauble%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
 ------------------------------------------------------------------------------
 
 ?LANDS?: https://scryfall.com/search?q=%22Takenuma%2C+Abandoned+Mire%22+or+%22Castle+Ardenvale%22+or++%22Minas+Tirith%22+or+%22Eiganjo%2C+Seat+of+the+Empire%22+or+%22Boseiju%2C+Who+Endures%22+or+%22shelldock+isle%22+or+%22Den+of+the+Bugbear%22+or+%22Castle+Locthwain%22+or+&unique=cards&as=grid&order=name
