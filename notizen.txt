@@ -47,7 +47,7 @@ RAKDOS (KROXA): https://scryfall.com/search?q=%22Bituminous+Blast%22+or+%22Blood
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-RED (+9-5,ABRADE, KARI ZEV, INVASION OF TARKIR, FABLE, JAYA, BOMAT, OBLITERATING BOLT, EMBERCLEAVE, VORTEX,-BURST LIGHTNING ,-THUNDERING REBUKE, -SPYRO, -urabrask, -lukka, ?voltaic): https://scryfall.com/search?q=%22dragon%27s+rage+channeler%22+legal%3Avintage+or+%22voltaic+visionary%22+or+%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22+or+%22bomat+courier%22+or+%22bedlam+reveler%22+or+%22goblin+guide%22+or+%22monastery+swiftspear%22+or+%22young+pyromancer%22
+RED (+10-6, NAHIRIS WARCRAFTING, ABRADE, KARI ZEV, INVASION OF TARKIR, FABLE, JAYA, BOMAT, OBLITERATING BOLT, EMBERCLEAVE, VORTEX,-BURST LIGHTNING ,-THUNDERING REBUKE, -SPYRO, -urabrask, -lukka, -voltaic): https://scryfall.com/search?q=%22dragon%27s+rage+channeler%22+legal%3Avintage+or+%22voltaic+visionary%22+or+%22embercleave%22+or+%22Ragavan%2C+Nimble+Pilferer%22+or+%22bomat+courier%22+or+%22bedlam+reveler%22+or+%22goblin+guide%22+or+%22monastery+swiftspear%22+or+%22young+pyromancer%22
 
 BLUE: (GIFTS) https://scryfall.com/search?q=%22chart+a+course%22+or+%22Sea+Gate+Stormcaller%22+or+%22True-Name+Nemesis%22+or+%22Mercurial+Spelldancer%22+or+%22Tide+Shaper%22+or+%22Thassa%27s+Oracle%22+or+%22Master+of+Waves%22+or+%22Hullbreacher%22+%22Talrand%2C+Sky+Summoner%22+or+or+%22Harbinger+of+the+Tides%22+or+%22Dig+Through+Time%22+or+%22Delver+of+Secrets%22+or+%22Murktide+Regent%22+or+%22Search+for+Azcanta%22+or+%22Faerie+Mastermind%22+or+%22jace%2C+Vryn%27s+Prodigy%22+or+%22serum+visions%22+or+%22thought+scour%22+or+%22barrin%2C+tolarian+archmage%22+or%22champion+of+wits%22+or+%22aether+channeler%22+or++%22Narset%2C+Parter+of+Veils%22+or+%22Thing+in+the+Ice%22+or+%22Chart+a+Course%22+or+%22complicate%22+or+%22Riftwing+Cloudskate%22+or+%22ledger+shredder%22+or+%22gifts+ungiven%22
 
@@ -69,4 +69,5 @@ Merfolk
 mill prevention (self mill)
 
 ----------------------------------------------------------------------------------
-~ 5/9 REMOVAL KARTEN
+~ +4 -2 r
+- 9 REMOVAL KARTEN
