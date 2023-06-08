@@ -69,5 +69,6 @@ Merfolk
 mill prevention (self mill)
 
 ----------------------------------------------------------------------------------
-~ +4 -2 r
-- 9 REMOVAL KARTEN
+~ +4 -2 (red)
+- +1 (3 color)
+- 3/9 REMOVAL KARTEN
