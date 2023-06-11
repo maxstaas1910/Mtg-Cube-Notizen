@@ -55,7 +55,7 @@ WHITE (+5-3, REMOVAL, OSSIFICATION, KNIGHT ERRANT, WEDDING ANOUNCEMENT, SOLITUDE
 
 BLACK (+2, CUT DOWN, ANIMATE DEAD, +1 removal): https://scryfall.com/search?q=%22Grave+Titan%22+or+%22Demonlord+Belzenlok%22+or+%22Burning-Rune+Demon%22+or+%22Noxious+Gearhulk%22+or+%22go+for+the+throat%22+or+%22scrapheap+scrounger%22+or+%22bloodghast%22+or+%22Sheoldred%2C+Whispering+One%22+or+%22Phyrexian+Fleshgorger%22+or+%22Kalitas%2C+Traitor+of+Ghet%22+or+%22Sheoldred%27s+Edict%22+or+%21%22reanimate%22+or+%22Cemetery+Desecrator%22+or+%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
 
-GREEN: https://scryfall.com/search?q=%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
+GREEN(+1 REC SAGE): https://scryfall.com/search?q=%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
 COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL) : https://scryfall.com/search?q=%22Sword+of+Feast+and+Famine%22+or+%22Batterskull%22+or+%22gitaxian+probe%22+or+%22mishra%27s+bauble%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
 ------------------------------------------------------------------------------
