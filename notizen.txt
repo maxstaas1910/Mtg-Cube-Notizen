@@ -45,7 +45,7 @@ GOLGARI:
 
 BOROS (NAHIRI): https://scryfall.com/search?q=%22Bell+Borca%2C+Spectral+Sergeant%22+or+%22Blade+Historian%22+or+%22Sunforger%22+or+%22Velomachus+Lorehold%22+or+%22Djeru+and+Hazoret%22+or+%22Winota%2C+Joiner+of+Forces%22+or+%22Wildfire+Awakener%22+or++%22Campus+Renovation%22+or+%22Nahiri%2C+the+Harbinger%22+or+%22Outlaws%27+Merriment%22+or+%22Pia+Nalaar%2C+Consul+of+Revival%22+or+%22Quintorius%2C+Loremaster%22
 
-SIMIC(+2-1 tamiyo, frilled mystic,-mystic snake): https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
+SIMIC(+2-1 tamiyo, frilled mystic,-mystic snake): https://scryfall.com/search?q=%22koma%2C+cosmos%22+or+%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22+or+%22Agent%27s+Toolkit%22+or+%22Aesi%2C+Tyrant+of+Gyre+Strait%22+or+%22Shardless+Agent%22+or+%22Bounty+of+the+Luxa%22+or+%22Edric%2C+Spymaster+of+Trest%22+or+%22Lonis%2C+Cryptozoologist%22+or+%22Prime+Speaker+Zegana%22+or+%22Sages+of+the+Anima%22+or+%22Rashmi%2C+Eternities+Crafter%22+or+%22Oko%2C+Thief+of+Crowns%22+or+%22Wavesifter%22+or+%22Kiora%2C+Master+of+the+Depths%22+or+%22Kiora%2C+the+Crashing+Wave%22+or+%22Tamiyo%2C+Collector+of+Tales%22+or+%22Tishana%2C+Voice+of+Thunder%22+or+%22Volo%2C+Guide+to+Monsters%22+or+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
