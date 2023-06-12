@@ -37,7 +37,7 @@ GRUUL (Huntmaster): https://scryfall.com/search?q=%22Samut%2C+Vizier+of+Naktamun
 
 SELESNYA: (+2-1, Trostani discordat, Night of Autumn, -renegade rallier) https://scryfall.com/search?q=%22Trostani+Discordant%22+or+%22Yasharn%2C+Implacable+Earth%22+or+%22Ghalta+and+Mavren%22+or+%22Clay+Champion%22+or+%22Dromoka%27s+Command%22+or+%22Ajani%2C+Mentor+of+Heroes%22+or+%22Torsten%2C+Founder+of+Benalia%22
 
-ORZHOV (+1-1 athreos, -4mana sorcery): https://scryfall.com/search?q=%22Tidehollow+Sculler%22+or+%22lurrus%22+or+%22Edgar%2C+Charmed+Groom%22
+ORZHOV (+1-1 athreos, -4mana sorcery): https://scryfall.com/search?q=%22Spirit-Sister%27s+Call%22+or+%22Can%27t+Stay+Away%22+or+%22Tidehollow+Sculler%22+or+%22Unburial+Rites%22+or+%22Vindicate%22+or+%22Shadrix+Silverquill%22+or+%22Silverquill+Command%22+or+%22Sin+Collector%22+or+%22Phyrexian+Missionary%22+or+%22Priest+of+Fell+Rites%22+or+%22Seraph+of+the+Scales%22+or+%22Liesa%2C+Forgotten+Archangel%22+or+%22Lurrus+of+the+Dream-Den%22+or+%22Path+of+Peril%22+or+%22Drana+and+Linvala%22+or+%22Kaya%27s+Guile%22+or+%22Kaya%2C+Ghost+Assassin%22+or+%22Kaya+the+Inexorable%22+or+%22Tidehollow+Sculler%22+or+%22lurrus%22+or+%22Edgar%2C+Charmed+Groom%22+or+%21%22damn%22+or+%22Dire+Tactics%22+or+%22Doom+Foretold%22+
 
 IZZET (ZOANTHROPE): https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22
 
