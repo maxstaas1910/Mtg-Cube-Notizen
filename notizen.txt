@@ -43,7 +43,7 @@ IZZET (ZOANTHROPE): https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22
 
 GOLGARI: 
 
-BOROS: https://scryfall.com/search?q=%22Bell+Borca%2C+Spectral+Sergeant%22+or+%22Blade+Historian%22+or+%22Sunforger%22+or+%22Velomachus+Lorehold%22+or+%22Djeru+and+Hazoret%22+or+%22Winota%2C+Joiner+of+Forces%22+or+%22Wildfire+Awakener%22+or++%22Campus+Renovation%22+or+%22Nahiri%2C+the+Harbinger%22+or+%22Outlaws%27+Merriment%22+or+%22Pia+Nalaar%2C+Consul+of+Revival%22+or+%22Quintorius%2C+Loremaster%22
+BOROS (NAHIRI): https://scryfall.com/search?q=%22Bell+Borca%2C+Spectral+Sergeant%22+or+%22Blade+Historian%22+or+%22Sunforger%22+or+%22Velomachus+Lorehold%22+or+%22Djeru+and+Hazoret%22+or+%22Winota%2C+Joiner+of+Forces%22+or+%22Wildfire+Awakener%22+or++%22Campus+Renovation%22+or+%22Nahiri%2C+the+Harbinger%22+or+%22Outlaws%27+Merriment%22+or+%22Pia+Nalaar%2C+Consul+of+Revival%22+or+%22Quintorius%2C+Loremaster%22
 
 SIMIC: https://scryfall.com/search?q=%22Bounty+of+the+Luxa%22+or+%22Jolrael%2C+Voice+of+Zhalfir%22
 
