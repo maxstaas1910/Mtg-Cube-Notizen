@@ -27,7 +27,7 @@ ABZAN: (Siege Rhino) https://scryfall.com/search?q=%22Thalia+and+The+Gitrog+Mons
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-AZORIUS: (errant and sigrid) https://scryfall.com/search?q=-%22absorb+%22+and+%28%22Absorb%22+or+%22Geist+of+Saint+Traft%22+or+%22Errant+and+Giada%22+or+%22Ephara%2C+God+of+the+Polis%22+or+%22Dragonlord+Ojutai%22+or+%22Detention+Sphere%22+or+%22Daxos+of+Meletis%22++or+%22Zethi%2C+Arcane+Blademaster%22+or+%22Yorion%2C+Sky+Nomad%22+or+%22Ojutai%27s+Command%22+or+%22Spell+Queller%22%29
+AZORIUS: (+2-1, errant and ..., ojutai, -teferi) https://scryfall.com/search?q=-%22absorb+%22+and+%28%22Absorb%22+or+%22Geist+of+Saint+Traft%22+or+%22Errant+and+Giada%22+or+%22Ephara%2C+God+of+the+Polis%22+or+%22Dragonlord+Ojutai%22+or+%22Detention+Sphere%22+or+%22Daxos+of+Meletis%22++or+%22Zethi%2C+Arcane+Blademaster%22+or+%22Yorion%2C+Sky+Nomad%22+or+%22Ojutai%27s+Command%22+or+%22Spell+Queller%22%29
 
 GRUUL (Huntmaster): https://scryfall.com/search?q=%22Samut%2C+Vizier+of+Naktamun%22+or+%22Minsc+%26+Boo%2C+Timeless+Heroes%22+or+%22Neyith+of+the+Dire+Hunt%22+or+%22Escape+to+the+Wilds%22+or+%22Gallia+of+the+Endless+Dance%22+or+%22Halana+and+Alena%2C+Partners%22+or+%22Huntmaster+of+the+Fells%22+or+%22Deathleaper%2C+Terror+Weapon%22+or++%22Klothys%2C+God+of+Destiny%22+or+%22Samut%2C+Vizier+of+Naktamun%22+or+%28legal%3Avintage+%22Minsc+%26+Boo%2C+Timeless+Heroes%22%29&unique=cards&as=grid&order=name
 
