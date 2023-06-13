@@ -41,7 +41,7 @@ ORZHOV (+1-1 athreos, -4mana sorcery): https://scryfall.com/search?q=%22Spirit-S
 
 IZZET (ZOANTHROPE): https://scryfall.com/search?q=%22Keranos%2C+God+of+Storms%22+or+%28jori+set%3Apogw%29+or+%22Crackling+Drake%22+or+%22Prismari+Command%22+or+%22Niv-Mizzet%2C+Parun%22+or+%22Lutri%2C+the+Spellchaser%22
 
-GOLGARI: 
+GOLGARI: https://scryfall.com/search?q=%22Vraska%2C+Golgari+Queen%22+or+%22Binding+the+Old+Gods%22+or+%22The+Gitrog+Monster%22+or+%22Tyvar%2C+Jubilant+Brawler%22+or+%22Underrealm+Lich%22+or+%22Old+Stickfingers%22+or+%22Old+Rutstein%22+or+%22Pernicious+Deed%22+or+%22Polukranos%2C+Unchained%22+or+%22Fiend+Artisan%22+or+%22Hogaak%2C+Arisen+Necropolis%22+or+%22Nissa+of+Shadowed+Boughs%22+or+%22Grim+Flayer%22+or+%22Hapatra%2C+Vizier+of+Poisons%22+or+%22Carth+the+Lion%22+or+%22Chevill%2C+Bane+of+Monsters%22+or+%22Deathrite+Shaman%22+or+%22Dig+Up%22
 
 BOROS (NAHIRI): https://scryfall.com/search?q=%22Bell+Borca%2C+Spectral+Sergeant%22+or+%22Blade+Historian%22+or+%22Sunforger%22+or+%22Velomachus+Lorehold%22+or+%22Djeru+and+Hazoret%22+or+%22Winota%2C+Joiner+of+Forces%22+or+%22Wildfire+Awakener%22+or++%22Campus+Renovation%22+or+%22Nahiri%2C+the+Harbinger%22+or+%22Outlaws%27+Merriment%22+or+%22Pia+Nalaar%2C+Consul+of+Revival%22+or+%22Quintorius%2C+Loremaster%22
 
@@ -55,7 +55,7 @@ BLUE: (+4 THASSAS ORACLE, CONSECRATED SPHINX ,GIFTS, VENSER) https://scryfall.co
 
 WHITE: (+8-4, PORTABLE HOLE, SIGIRD, OSSIFICATION, KNIGHT ERRANT, WEDDING ANOUNCEMENT, SOLITUDE, EPHEMERATE, STONEFORGE, -CouncilsJudgment, -Porcaleain, -Fateful Absence, -Restoration of Eiganjo ) https://scryfall.com/search?q=%22Sigrid%2C+God-Favored%22+or+%22Portable+Hole%22+or+%22March+of+Otherworldly+Light%22+or+%22Condemn%22+or+%22Glimmer+Lens%22+or+%22wedding+announce%22+or+%E2%80%9Ckarmic+guide%E2%80%9D+or+%22skrelv%27s+hive%22+or++%22Serra+Paragon%22+or+%22portable+hole%22+or+%22legion%27s+landing%22+or+%22Elspeth+Conquers+Death%22+or+%22tithe+taker%22+or+%22white+plume+%22+or+%21solitude+or+%22temporary+lockdown%22+or+%22esper+sentinel%22+or+%22adanto+vanguard%22+or+%21%22ossification%22+or+%22stoneforge+mystic%22+or++%22steel+seraph%22+or+%22blade+splicer%22+or+%22Elspeth+Conquers+Death%22+or+%22Sun+Titan%22+or+%22Monastery+Mentor%22+or+%22Ao%2C+the+Dawn+Sky%22
 
-BLACK (+3, CUT DOWN, ANIMATE DEAD, +1 sheoldreds edict): https://scryfall.com/search?q=%22Grave+Titan%22+or+%22Demonlord+Belzenlok%22+or+%22Burning-Rune+Demon%22+or+%22Noxious+Gearhulk%22+or+%22go+for+the+throat%22+or+%22scrapheap+scrounger%22+or+%22bloodghast%22+or+%22Sheoldred%2C+Whispering+One%22+or+%22Phyrexian+Fleshgorger%22+or+%22Kalitas%2C+Traitor+of+Ghet%22+or+%22Sheoldred%27s+Edict%22+or+%21%22reanimate%22+or+%22Cemetery+Desecrator%22+or+%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
+BLACK (+3, CUT DOWN, ANIMATE DEAD, sheoldreds edict): https://scryfall.com/search?q=%22Grave+Titan%22+or+%22Demonlord+Belzenlok%22+or+%22Burning-Rune+Demon%22+or+%22Noxious+Gearhulk%22+or+%22go+for+the+throat%22+or+%22scrapheap+scrounger%22+or+%22bloodghast%22+or+%22Sheoldred%2C+Whispering+One%22+or+%22Phyrexian+Fleshgorger%22+or+%22Kalitas%2C+Traitor+of+Ghet%22+or+%22Sheoldred%27s+Edict%22+or+%21%22reanimate%22+or+%22Cemetery+Desecrator%22+or+%22bloodsoaked+champion%22+or+%22reaimate%22+or+%22archon+of+cruelty%22+or+%21%22sheoldred%22+or+%22evolved+sleeper%22+or+%22Ayara%27s+Oathsworn%22+or+%22Invoke+Despair%22+or+%22gurmag+angler%22+or+%22knight+of+the+ebon+legion%22&unique=cards&as=grid&order=name
 
 GREEN(+2 REC SAGE, ACIDIC SLIME, 2Drop): https://scryfall.com/search?q=%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
@@ -66,11 +66,6 @@ COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL) : https://scryfall.com/searc
 
 ------------------------------------------------------------------------------
 
-!!!FRACTURED IDENTITY RAUS?????
-Merfolk
-mill prevention (self mill)
-
-----------------------------------------------------------------------------------
 - +5 -2 (red)
 - +1 (3 color)
 - +4 -2 (white
