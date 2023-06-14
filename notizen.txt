@@ -60,6 +60,11 @@ BLACK (+4-1, CUT DOWN, ANIMATE DEAD, sheoldreds edict, breach the multiverse, Ce
 
 GREEN(+1 ACIDIC SLIME, devoted druid, radagast): https://scryfall.com/search?q=%22radagast+the+brown%22+or+%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
+https://scryfall.com/search?q=-is%3Adigital+type%3Aplaneswalker+commander%3Ag+-commander%3Dc
+
+https://scryfall.com/search?q=%22Abundant+Harvest%22+or+%22Ancient+Stirrings%22+or+%22Once+Upon+a+Time%22+or+%22Traverse+the+Ulvenwald%22+or+%22Oath+of+Nissa%22+&unique=cards&as=grid&order=name
+
+
 COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL, mishra's bauble) : https://scryfall.com/search?q=%22Sword+of+Feast+and+Famine%22+or+%22Batterskull%22+or+%22gitaxian+probe%22+or+%22mishra%27s+bauble%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
 ------------------------------------------------------------------------------
 
