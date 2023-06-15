@@ -60,6 +60,11 @@ BLACK (+4-1, CUT DOWN, ANIMATE DEAD, sheoldreds edict, breach the multiverse, Ce
 
 GREEN(+?-1 ACIDIC SLIME, devoted druid, radagast, graveyard synergy, one big spell, -pelt collector, coco out?, wrenn+chariot combo? hat chariot noch andere synergy?): https://scryfall.com/search?q=%22Wrenn+and+Seven%22+or+%22Vivien+on+the+Hunt%22+or++%22Vivien+Reid%22+or+%22Vivien%2C+Monsters%27+Advocate%22+or+%22Abundant+Harvest%22+or+%22Once+Upon+a+Time%22+or+%22Oath+of+Nissa%22+or+%22Esika%27s+Chariot%22+or+%22radagast+the+brown%22+or+%22Reclamation+Sage%22+or+%22devoted+druid%22+or+%22Acidic+Slime%22+or+%22Titan+of+Industry%22+
 
+https://scryfall.com/search?q=o%3Aadd+commander%3Dc+-type%3Aland+-is%3Adigital
+https://scryfall.com/search?q=%22growth+spiral%22+or+%22wrenn+and+seven%22
+https://scryfall.com/search?q=%22Woodfall+Primus%22+or+%22Zopandrel%2C+Hunger+Dominus%22+or+%22Woodland+Bellower%22+or+%22Kogla%2C+the+Titan+Ape%22+or+%22Terastodon%22+or+%22The+World+Spell%22+or+%22Titan+of+Industry%22
+
+
 COLORLESS (JITTE, Porcelain Legionair, BATTERSKULL, mishra's bauble) : https://scryfall.com/search?q=%22Sword+of+Feast+and+Famine%22+or+%22Batterskull%22+or+%22gitaxian+probe%22+or+%22mishra%27s+bauble%22+or+%22sword+of+fire+and+ice%22+or+%22Kaldra+Compleat%22+or+%22skullclamp%22&unique=cards&as=grid&order=name
 ------------------------------------------------------------------------------
 
