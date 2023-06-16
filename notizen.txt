@@ -1,7 +1,7 @@
 NAYA: (Justice) https://scryfall.com/search?q=%22Cabaretti+Confluence%22+or+%22Fleetfoot+Dancer%22+or+%22fiery+justice%22&unique=cards&as=grid&order=name
 	-> Confluence hat kein Foil; Fleetfoot ist cool aber doppelt mit Lightning Angel/Mantis Rider; Justice scheint o.k.
 
-TEMUR: (Borbo) https://scryfall.com/search?q=%22Surrak+Dragonclaw%22+or+%22Borborygmos+and+Fblthp%22+or+%22Rashmi+and+Ragavan%22+or+%22Sarkhan+Unbroken%22+or+&unique=cards&as=grid&order=name
+TEMUR: (Rashmi and Ragavan) https://scryfall.com/search?q=%22Surrak+Dragonclaw%22+or+%22Borborygmos+and+Fblthp%22+or+%22Rashmi+and+Ragavan%22+or+%22Sarkhan+Unbroken%22+or+&unique=cards&as=grid&order=name
 	-> Surrak kinda useless; rashmi will ich maybe die normale spielen; sarkhan ist cool, wenn ich genug Drachen habe; Borbo seems good
 
 GRIXIS: (BOLAS) https://scryfall.com/search?q=%22Bladecoil+Serpent%22+or+%22Nicol+Bolas%2C+Dragon-God%22+or+%22Jeleva%2C+Nephalia%27s+Scourge%22+or+%22Kess%2C+Dissident+Mage%22+or+%22Corpse+Appraiser%22&unique=cards&as=grid&order=name
